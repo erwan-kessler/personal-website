@@ -7,8 +7,8 @@ URL: https://new.erwankessler.com
 
 ## Install
 ```bash
-git clone --recurse-submodules --depth 1 https://https://github.com/erwan-kessler/personal-website
-cd observatoireSousMarin
+git clone --recurse-submodules --depth 1 https://github.com/erwan-kessler/personal-website
+cd personal-website
 docker-compose up --build -d
 ```
 
