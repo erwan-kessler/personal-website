@@ -2,7 +2,7 @@
 
 Website made with :blue_heart: with hugo and kross hugo
 
-URL: https://erwankessler.com
+URL: https://new.erwankessler.com
 
 
 ## Install
