@@ -1,0 +1,17 @@
+# some information about you
+name: "Erwan Kessler"
+nickname: "Erwan"
+image: "images/avatar.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Bonjour, je suis"
+
+contactInfo:
+  email: "me@erwankessler.com"
+  phone: "+33781853778"
+summary:
+  - Je suis un développeur
+  - Je suis un Devops
+  - J'aime les serveurs
+  - Je travaille sur des projets open-source
+  - J'aime travailler avec des projets amusants
