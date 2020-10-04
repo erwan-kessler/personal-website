@@ -13,7 +13,7 @@ markup:
     endLevel: 6
     ordered: false
 
-
+disableLiveReload: true
 
 # Enable global emoji support
 enableEmoji: true
